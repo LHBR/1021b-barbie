@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: rgb(240, 95, 175);
+    background-color: rgb(255, 210, 235);
     height: 897px;
     width: 100%;
     font-family: 'Borel', cursive;
@@ -20,7 +20,7 @@ body{
 
 .barbies{
     text-decoration: none;
-    color: black;
+    color: white;
     font-size: 18px;
 }
 
@@ -41,7 +41,7 @@ li{
 
 footer{
     margin-top: 490px;
-    background-color: rgb(236, 75, 110);
+    background-color: rgb(223, 51, 122);
     padding: 35px 0px 0px 0px;
 }
 
